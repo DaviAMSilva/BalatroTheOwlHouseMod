@@ -5,6 +5,9 @@ on:
     tags:
       - 'v*.*.*'
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -18,9 +21,9 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: |
-          assets/
+          assets/**/*
           *.lua
           README.md
-          LICENSE
+          LICENCE
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
