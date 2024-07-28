@@ -16,14 +16,14 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Create Release
+    - name: Create zip archive
+      run: |
+        zip -r TheOwlHouseMod.zip "assets/ *.lua README.md LICENCE"
+
+    - name: Upload Release
       id: create_release
       uses: softprops/action-gh-release@v1
       with:
-        files: |
-          assets/**/*
-          *.lua
-          README.md
-          LICENCE
+        files: TheOwlHouseMod.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
