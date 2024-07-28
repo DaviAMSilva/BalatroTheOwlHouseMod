@@ -2,9 +2,11 @@
 
 Original Mod Repository: https://github.com/DaviAMSilva/BalatroTheOwlHouseMod
 
-This is a Balatro texture mod featuring characters and symbols from the Disney Television Animation show, [The Owl House](https://www.imdb.com/title/tt8050756/).
+This is a [Balatro](https://store.steampowered.com/app/2379780/Balatro/) texture mod featuring characters and symbols from the Disney Television Animation show, [The Owl House](https://www.imdb.com/title/tt8050756/).
 
-YouTube video: [The Owl House Mod - Balatro Mod Showcase](https://youtu.be/c9bnxKF73fo)
+YouTube video: [The Owl House Mod - Balatro Mod Showcase](https://www.youtube.com/watch?v=c9bnxKF73fo)
+
+I'm open to suggestions on designs to add to this mod.
 
 ## Changes
 
@@ -12,6 +14,8 @@ YouTube video: [The Owl House Mod - Balatro Mod Showcase](https://youtu.be/c9bnx
 - Replaced the face cards with the main characters: **[King](https://theowlhouse.fandom.com/wiki/King)**, **[Eda](https://theowlhouse.fandom.com/wiki/Eda_Clawthorne)** and **[Luz](https://theowlhouse.fandom.com/wiki/Luz_Noceda)**
 - Replaced the Mult Card enhancement texture with **[Flapjack](https://theowlhouse.fandom.com/wiki/Flapjack)**
 - Replaced the Bonus Card enhancement texture with **[Waffle](https://theowlhouse.fandom.com/wiki/Waffle)**
+- Replaced the deck ui elements to have glyphs instead of suits and King's face instead of a king's face
+- Replaced all mention of the suits names with the respective names of the glyphs
 - Added the Titan symbol to the Stone Card texture
 - Added a abomination color scheme to the Wild Card texture
 
