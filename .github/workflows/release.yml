@@ -18,7 +18,7 @@ jobs:
 
     - name: Create zip archive
       run: |
-        zip -r TheOwlHouseMod.zip assets/ *.lua README.md LICENCE
+        zip -r TheOwlHouseMod.zip assets/ *.lua README.md LICENSE
 
     - name: Upload Release
       id: create_release
