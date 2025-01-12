@@ -1,5 +1,8 @@
 # The Owl House Mod for Balatro
 
+> [!WARNING]
+> Update: As of the current version of Steamodded this mod no long works and there is no plan to restore it currently.
+
 Original Mod Repository: https://github.com/DaviAMSilva/BalatroTheOwlHouseMod
 
 This is a [Balatro](https://store.steampowered.com/app/2379780/Balatro/) texture mod featuring characters and symbols from the Disney Television Animation show, [The Owl House](https://www.imdb.com/title/tt8050756/).
